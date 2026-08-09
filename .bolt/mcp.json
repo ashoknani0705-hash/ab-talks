@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "ab_talks": {
+      "enabled": true
+    },
+    "github": {
+      "enabled": true
+    }
+  }
+}

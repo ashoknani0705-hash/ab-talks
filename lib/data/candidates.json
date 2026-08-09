@@ -1,0 +1,78 @@
+[
+  {
+    "id": "candidate-a",
+    "name": "Arjun Sharma",
+    "title": "Backend Engineer → AI Engineer",
+    "avatar": "AS",
+    "summary": "Strong in RAG and prompt engineering. Skipped vector databases. Weak in MCP concepts.",
+    "completedDays": [1, 2, 3, 4, 5, 6, 7, 8, 11, 12, 13, 14, 15, 16, 17, 21, 22, 23, 24, 25],
+    "skippedDays": [9, 10, 18, 19, 20],
+    "attemptedDays": [1, 2, 3, 4, 5, 6, 7, 8, 11, 12, 13, 14, 15, 16, 17, 21, 22, 23, 24, 25],
+    "strengths": ["RAG pipelines", "Prompt engineering", "Agent orchestration"],
+    "weaknesses": ["Vector database internals", "MCP protocol", "Deployment strategies"],
+    "learningSignals": {
+      "mostActiveModule": "RAG",
+      "avgMissionScore": 78,
+      "streakDays": 12,
+      "totalAttempts": 42,
+      "preferredTopics": ["RAG", "Prompt Engineering", "Agentic AI"]
+    }
+  },
+  {
+    "id": "candidate-b",
+    "name": "Priya Patel",
+    "title": "Data Scientist → AI Engineer",
+    "avatar": "PP",
+    "summary": "Excellent at vector databases and embeddings. Struggles with agentic AI and multi-agent systems.",
+    "completedDays": [1, 2, 3, 6, 7, 8, 9, 10, 11, 12, 18, 19, 20, 21, 22, 23, 26, 27, 28, 29],
+    "skippedDays": [13, 14, 15, 16, 17],
+    "attemptedDays": [1, 2, 3, 6, 7, 8, 9, 10, 11, 12, 18, 19, 21, 22, 23, 26, 27, 28, 29],
+    "strengths": ["Vector databases", "Embeddings", "MCP integration", "Model evaluation"],
+    "weaknesses": ["Agent architecture", "Tool use", "Multi-agent orchestration"],
+    "learningSignals": {
+      "mostActiveModule": "Vector Databases",
+      "avgMissionScore": 82,
+      "streakDays": 18,
+      "totalAttempts": 55,
+      "preferredTopics": ["Vector Databases", "RAG", "MCP"]
+    }
+  },
+  {
+    "id": "candidate-c",
+    "name": "Karthik Reddy",
+    "title": "Full-Stack Developer → AI Engineer",
+    "avatar": "KR",
+    "summary": "Well-rounded across most topics. Strong in deployment and production systems. Weak in advanced prompt patterns.",
+    "completedDays": [1, 2, 3, 6, 7, 8, 9, 10, 11, 13, 14, 15, 16, 17, 18, 19, 20, 23, 24, 25, 26, 27, 28, 29, 30],
+    "skippedDays": [4, 5, 12],
+    "attemptedDays": [1, 2, 3, 6, 7, 8, 9, 10, 11, 13, 14, 15, 16, 17, 18, 19, 20, 23, 24, 25, 26, 27, 28, 29, 30],
+    "strengths": ["AI deployment", "Production systems", "MCP", "Agent memory"],
+    "weaknesses": ["Advanced prompt patterns", "Prompt chaining", "RAG optimization"],
+    "learningSignals": {
+      "mostActiveModule": "Production AI",
+      "avgMissionScore": 85,
+      "streakDays": 25,
+      "totalAttempts": 68,
+      "preferredTopics": ["Agentic AI", "MCP", "AI Deployment", "Production AI"]
+    }
+  },
+  {
+    "id": "candidate-d",
+    "name": "Sneha Iyer",
+    "title": "ML Engineer → AI Engineer",
+    "avatar": "SI",
+    "summary": "Strong fundamentals in LLMs and fine-tuning. Needs work on RAG pipelines and vector databases.",
+    "completedDays": [1, 2, 3, 4, 5, 13, 14, 15, 16, 17, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30],
+    "skippedDays": [6, 7, 8, 9, 10, 11, 12],
+    "attemptedDays": [1, 2, 3, 4, 5, 13, 14, 15, 16, 17, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30],
+    "strengths": ["LLM fundamentals", "Fine-tuning", "Agent systems", "Model evaluation"],
+    "weaknesses": ["RAG architecture", "Document chunking", "Vector search"],
+    "learningSignals": {
+      "mostActiveModule": "Agentic AI",
+      "avgMissionScore": 80,
+      "streakDays": 15,
+      "totalAttempts": 48,
+      "preferredTopics": ["LLM Foundations", "Agentic AI", "Production AI"]
+    }
+  }
+]
